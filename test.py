@@ -7,7 +7,7 @@ G = '\033[92m' #Green
 time.sleep(2)
 #pertanyaan 1
 os.system('clear')
-print("Anime Terbaik \n*hasil ini menurut MyAnimeList")
+print(Y+("Anime Terbaik \n*hasil ini menurut MyAnimeList"))
 time.sleep(1)
 q1 = input(B+("\na.Chainsaw Man\nb.Black Clover\nc.One Piece\nJawab "))
 os.system('clear')
@@ -22,7 +22,7 @@ else:
 time.sleep(3)
 #pertanyaan 2
 os.system('clear')
-print("Waifu Terbaik Dalam Anime \n*hasil ini menurut MyAnimeList")
+print(Y+("Waifu Terbaik Dalam Anime \n*hasil ini menurut MyAnimeList"))
 time.sleep(1)
 q2 = input(B+("\na.Tokisaki Kurumi\nb.Makima\nc.Rias Gremory\nJawab "))
 os.system('clear')
@@ -38,7 +38,7 @@ else:
 time.sleep(3)
 #pertanyaan 3
 os.system('clear')
-print("Femboy Terbaik Dalamm Anime \n*hasil ini menurut MyAnimeList")
+print(Y+("Femboy Terbaik Dalamm Anime \n*hasil ini menurut MyAnimeList"))
 time.sleep(1)
 q3 = input(B+("\na.Rimuru\nb.Astolfo\nc.Felix\nJawab "))
 os.system('clear')
@@ -53,7 +53,7 @@ else:
 time.sleep(3)
 #pertanyaan 4
 os.system('clear')
-print("Author Anime Your Name")
+print(Y+("Author Anime Your Name"))
 time.sleep(1)
 q4 = input(B+("\na.Hideo Kojima\nb.Makoto Shinkai\nc.Hajime Isayama\nJawab "))
 os.system('clear')
@@ -70,7 +70,7 @@ else:
 time.sleep(3)
 #pertanyaan 5
 os.system('clear')
-print("Studio Yang Membuat Demon Slayer")
+print(Y+("Studio Yang Membuat Demon Slayer"))
 time.sleep(1)
 q5 = input(B+("\na.Mappa\nb.Ufotable\nc.MadHouse\nJawab "))
 os.system('clear')
